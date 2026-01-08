@@ -8,5 +8,3 @@ This branch shows a tween configuration I did for a client with clear documentat
 My best work:
   - [Titanium](https://github.com/Wharkk/titanium): Production-ready Roblox framework with built-in data architecture, client replication, and monetization systems.
   - [PestLuau](https://github.com/Wharkk/pest-luau): A Luau port of [PestPHP](https://pestphp.com/) by [@nunomaduro](https://github.com/nunomaduro), bringing beautiful test syntax and Test-Driven Development practices to the Roblox ecosystem.
-
----
